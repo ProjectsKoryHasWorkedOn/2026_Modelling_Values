@@ -12,6 +12,4 @@ Layers: Unchecked
 
 Tags: Unchecked
 
-Transparent background: Unchecked
-
 Edit: Unchecked
